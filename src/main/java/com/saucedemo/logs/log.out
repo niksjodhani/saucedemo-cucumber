@@ -1,0 +1,92 @@
+2022-05-18 21:05:452 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:443 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:655 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:775 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:838 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:761 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:681 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:800 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:852 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:950 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:857 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:957 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:09 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:894 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:61 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:178 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:270 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:673 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:707 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:818 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:902 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:105 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:207 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:315 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:395 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:20 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:132 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:244 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:334 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:413 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:290 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:416 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:508 INFO  SignInPage :37 - Click on login button
+2022-05-18 22:05:384 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 22:05:475 INFO  SignInPage :28 - set email field
+2022-05-18 22:05:590 INFO  SignInPage :32 - set password field
+2022-05-18 22:05:673 INFO  SignInPage :37 - Click on login button
+2022-05-18 23:05:981 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-18 23:05:131 INFO  SignInPage :28 - set email field
+2022-05-18 23:05:240 INFO  SignInPage :32 - set password field
+2022-05-18 23:05:328 INFO  SignInPage :37 - Click on login button
+2022-05-19 00:05:889 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-19 00:05:655 INFO  SignInPage :29 - set email field
+2022-05-19 00:05:782 INFO  SignInPage :34 - set password field
+2022-05-19 00:05:857 INFO  SignInPage :39 - Click on login button
+2022-05-19 00:05:18 INFO  Inventory :45 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-19 00:05:103 INFO  Inventory :34 - add to cat cheapest & costliest products 
+2022-05-19 00:05:208 INFO  Inventory :40 - Click on shopping cart2
+2022-05-19 00:05:279 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-19 00:05:327 INFO  CheckOutPage :40 - Set first NameAjay
+2022-05-19 00:05:397 INFO  CheckOutPage :45 - Set last NameGohil
+2022-05-19 00:05:464 INFO  CheckOutPage :50 - Set postal code edc23
+2022-05-19 00:05:555 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-19 00:05:651 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-19 00:05:781 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
+2022-05-20 13:05:443 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-20 13:05:446 INFO  SignInPage :29 - set email field
+2022-05-20 13:05:551 INFO  SignInPage :34 - set password field
+2022-05-20 13:05:639 INFO  SignInPage :39 - Click on login button
+2022-05-20 13:05:807 INFO  Inventory :45 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 13:05:892 INFO  Inventory :34 - add to cat cheapest & costliest products 
+2022-05-20 13:05:38 INFO  Inventory :40 - Click on shopping cart2
+2022-05-20 13:05:113 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-20 13:05:161 INFO  CheckOutPage :40 - Set first NameAjay
+2022-05-20 13:05:240 INFO  CheckOutPage :45 - Set last NameGohil
+2022-05-20 13:05:313 INFO  CheckOutPage :50 - Set postal code edc23
+2022-05-20 13:05:408 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-20 13:05:499 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-20 13:05:578 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
+2022-05-20 13:05:154 INFO  ManageDriver :34 - Launching Chrome Browser
+2022-05-20 13:05:366 INFO  SignInPage :29 - set email field
+2022-05-20 13:05:491 INFO  SignInPage :34 - set password field
+2022-05-20 13:05:606 INFO  SignInPage :39 - Click on login button
+2022-05-20 13:05:779 INFO  Inventory :45 - Select price high to lowName (A to Z)
+Name (Z to A)
+Price (low to high)
+Price (high to low)
+2022-05-20 13:05:870 INFO  Inventory :34 - add to cat cheapest & costliest products 
+2022-05-20 13:05:06 INFO  Inventory :40 - Click on shopping cart2
+2022-05-20 13:05:82 INFO  CartPage :23 - Click on checkoutCHECKOUT
+2022-05-20 13:05:127 INFO  CheckOutPage :40 - Set first NameAjay
+2022-05-20 13:05:198 INFO  CheckOutPage :45 - Set last NameGohil
+2022-05-20 13:05:280 INFO  CheckOutPage :50 - Set postal code edc23
+2022-05-20 13:05:388 INFO  CheckOutPage :55 - Click On Continue button
+2022-05-20 13:05:479 INFO  CheckOutPage :60 - Click on finish buttonFINISH
+2022-05-20 13:05:558 INFO  CheckOutPage :65 - Get textTHANK YOU FOR YOUR ORDER
